@@ -1,13 +1,13 @@
 <!DOCTYPE html>
 <html>
   <head>
-    <title>Mi Página Web</title>
+    <title>pan y pan.com</title>
     <meta charset="UTF-8" />
     <link rel="stylesheet" href="styles.css" />
   </head>
   <body>
     <h1>¡pan y pan!</h1>
-    <p>Esta es mi primera página web.</p>
+    <p>pan y pan.com</p>
     <script src="script.js"></script>
   </body>
 </html>
