@@ -6,7 +6,7 @@
     <link rel="stylesheet" href="styles.css" />
   </head>
   <body>
-    <h1>¡Hola mundo soy pan y pan!</h1>
+    <h1>¡pan y pan!</h1>
     <p>Esta es mi primera página web.</p>
     <script src="script.js"></script>
   </body>
